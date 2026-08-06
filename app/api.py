@@ -39,9 +39,9 @@ logger = setup_logger("GoD AI Chatbot: Server", "app.log")
 
 
 origins = [
-    "http://localhost:5173",
+    "https://geekondemand.in",
     "http://localhost:3000",
-    "http://localhost:5500",
+    "https://god-test-frontend-hwhmfabjcvfscpgn.southindia-01.azurewebsites.net",
     "https://god-ui.vercel.app",
     "https://chatbot.riskedgesolutions.com",
     "https://god-web-avangweyfef2ddec.southindia-01.azurewebsites.net"
